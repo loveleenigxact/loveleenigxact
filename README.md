@@ -15,8 +15,8 @@ Passionate about creating user-focused digital solutions with clean code and per
 - [Maxirich](https://www.maxirich.com/) – Laravel-based platform with scalable product catalogs
 - [FourJune](https://fourjune.com/) – Shopify e-commerce site with custom checkout flows
 - [Medznat](https://www.medznat.ru/) – Multi-tenant SaaS knowledge platform
-- [Derma Essentia](https://www.dermaessentia.com/) – Shopify store with SEO and order management
-- [Terumo India Skill Lab](https://terumoindiaskilllab.com/) – Webinar & workflow management system
+- [Derma Essentia](https://www.dermaessentia.com/) – Wordpress store with SEO and order management
+- [Terumo India Skill Lab](https://terumoindiaskilllab.com/) – Webinar, workflow management system with dashboard features
 
 ## 📄 Resume
 [Download My Resume](./LoveleenKaur_Resume.pdf)
