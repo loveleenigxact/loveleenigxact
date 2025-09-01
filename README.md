@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Loveleen 👋
+**Senior Full Stack Developer | Laravel | PHP | Shopify | SaaS Platforms**
 
-<!--
-**loveleenigxact/loveleenigxact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build scalable web applications, multi-tenant SaaS systems, and e-commerce platforms.  
+Passionate about creating user-focused digital solutions with clean code and performance optimization.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Backend: Laravel, PHP, CodeIgniter, Drupal
+- Frontend: HTML, CSS, JavaScript, jQuery, SCSS
+- Databases: MySQL, MariaDB, PostgreSQL
+- Tools: Git, Redis, WebSockets, Typesense, GA4, GTM
+- Platforms: Shopify, Drupal, AWS, Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [Maxirich](https://www.maxirich.com/) – Laravel-based platform with scalable product catalogs
+- [FourJune](https://fourjune.com/) – Shopify e-commerce site with custom checkout flows
+- [Medznat](https://www.medznat.ru/) – Multi-tenant SaaS knowledge platform
+- [Derma Essentia](https://www.dermaessentia.com/) – Shopify store with SEO and order management
+- [Terumo India Skill Lab](https://terumoindiaskilllab.com/) – Webinar & workflow management system
+
+## 📄 Resume
+[Download My Resume](./LoveleenKaur_Resume.pdf)
+
+## 📬 Contact Me
+📧 Email: sainiluv2@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/loveleenkaur447](https://www.linkedin.com/in/loveleenkaur447/)
